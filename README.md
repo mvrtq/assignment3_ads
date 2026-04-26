@@ -100,7 +100,6 @@ Key idea: very fast but requires sorted data.
 | Merge Sort    | ~0.1 ms      | ~0.5 ms       | ~1–2 ms       |
 | Binary Search | ~0.001 ms    | ~0.002 ms     | ~0.003 ms     |
 
-*(Values may vary depending on system performance)*
 
 ---
 
